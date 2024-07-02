@@ -65,7 +65,8 @@ RUN apt-get update && \
         python3-dbus \
         \
         xserver-xorg-video-dummy \
-        lxde \
+        xfce4 \
+        xfce4-goodies \
         x11-xserver-utils xdotool \
         xterm \
         gnome-themes-standard \
